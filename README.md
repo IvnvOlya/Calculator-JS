@@ -6,4 +6,4 @@
 3. User can see 'ERROR' displayed if any operation would exceed the 8 digit maximum.
 
 
-https://codepen.io/ivnvolya/pen/yLbQvNZ
+https://ivnvolya.github.io/Calculator-JS/
