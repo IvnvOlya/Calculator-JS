@@ -1,9 +1,11 @@
-# Calculator-JS
-Простой калькулятора с использованием JavaScript
+# Простой калькулятора с использованием JavaScript
 
-1. User can see a display showing the current number entered or the result of the last operation.
-2. User can see an entry pad containing buttons for the digits 0-9, operations - '+', '-', '/', '%' and '=', an 'AC' button (for clear all).
-3. User can see 'ERROR' displayed if any operation would exceed the 8 digit maximum.
+:tada: [Демо](https://ivnvolya.github.io/Calculator-JS/)
+
+:large_blue_circle: Функции калькулятора:
+
+- Пользователь может видеть дисплей, показывающий текущий введенный номер или результат последней операции.
+- Пользователь может видеть панель ввода, содержащую кнопки для цифр 0-9, операций - '+', '-', '/', '%' и '=', кнопка 'AC' (для очистки всех).
+- Пользователь может увидеть отображаемую "ОШИБКУ", если какая-либо операция превысит 8-значный максимум.
 
 
-https://ivnvolya.github.io/Calculator-JS/
